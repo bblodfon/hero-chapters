@@ -1,0 +1,28 @@
+---
+title: "Hero Chapters"
+author: "[John Zobolas](https://github.com/bblodfon)"
+date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+description: "A Fantasy Book about Heroes"
+url: 'https\://bblodfon.github.io/hero-chapters/'
+github-repo: "bblodfon/hero-chapters"
+site: bookdown::bookdown_site
+---
+
+# Intro {-}
+
+Ideas I had since I don't remember when, around the notion of heroes.
+I kept all my notes in different school books and papers here and there and at some point I took the effort to write them all in a text file and save them online.
+Years after that (and when the ideas were pretty much depleted because well, *life happened*) I decided to start this project, because you know, it's better than leaving the project unfinished!
+
+As I grew older, I found that the most important and captivating part of the stories that I was reading in books, seeing in TV series/movies, etc. was the *character development*.
+As such, I wanted to write a story that was mostly about exploring the characters themselves and how their powers (since they are heroes they have some) affect their everyday lives and the people around them.
+Do they use their powers responsibly?
+Does this mean for serving good purposes or maybe also bad?
+Who decides what is good or bad in such a hero-society?
+
+The narrative is mostly given by the *Buddha* hero who encounters many of the other heroes during his adventures or searches or whatever! 
+I never had a central plot to the whole book, more like *chapters*/*pictures*/*glimpses* of the situations and events these heroes fall into and usually it was the thought of a particular power that gave rise to a hero, his/her personality and at the end the event itself that he was the main protagonist.
+And as far as I remember, I wanted every chapter to have a different protagonist, a different hero that we would explore.
+
+> Let's see how far imagination can take us!  
+--- John
